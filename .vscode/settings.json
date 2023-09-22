@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "ICE2DB",
+            "database": "/home/priiyesh/assignment/MDEVNew/ICE2DB"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
